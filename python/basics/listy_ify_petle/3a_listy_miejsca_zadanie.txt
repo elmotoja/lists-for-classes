@@ -1,0 +1,13 @@
+Napisz program, który:
+
+- wczyta listę miejsc, do których chciałby wybrać  się użytkownik i uzupełniając listę: miejsca
+
+- będzie wczytywał kolejne miejsca (ciąg znaków  określający nazwę miejsca) i dodawał je do listy miejsca aż nie wczytany zostanie pusty ciąg znaków
+
+###
+Modyfikacja programu - niektóre  z miejsc podanych przez użytkownika okazały się nazwami stolic – nazwy stolic  przechowujemy w liście: stolice (utwórz pomocniczą listę stolice i uzupełnij ją przykładowymi nazwami)
+
+- napisz kod,  który dla danych list miejsca i stolice utworzy listę: stolice_uzytkownika - umieszczając w  niej jedynie te miejsca z listy miejsca,  które znajdują się na liście stolice
+
+###
+Modyfikacja 2 - umieść wszystkie stolice użytkownika (czyli to, co trafia do stolice_uzytkownika) o nazwie krótszej niż 8 znaków w liście: krotkie_stolice_uzytkownika
