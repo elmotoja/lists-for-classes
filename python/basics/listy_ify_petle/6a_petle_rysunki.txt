@@ -1,0 +1,21 @@
+# zad 1
+
+Napisz program, który wyswietli w konsoli:
+*
+**
+***
+****
+*****
+
+# zad 2
+
+Napisz program, który wyswietli w konsoli:
+*
+**
+***
+****
+*****
+****
+***
+**
+*

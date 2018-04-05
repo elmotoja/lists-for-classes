@@ -1,0 +1,10 @@
+# zad 1
+
+Napisz program, który pobierze od użytkownika 2 liczby, a następnie wyznaczy ich wartości bezwzględne, a następnie doda je do siebie.
+Na koniec wyświetl wynik
+
+
+# zad 2
+
+Napisz program, który pobierze od uzytkownika trzy liczby a nastepnie wyswietli najwiekszą z nich
+

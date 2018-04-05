@@ -1,0 +1,52 @@
+W poniższych zadaniach sprawdź obie alternatywy (listę oraz tablicę numpy).
+Zastanów się czy w każdym przypadku zawsze konieczne jest wykorzystanie pętli. (niemniej dla celów ćwiczeniowych możesz pisać pętle - szzcególnie dla list)
+
+# zad 1
+
+Napisz program, który wypełni listę / tablice jednowymiarowa liczbami: 1, 2, 3, 4, 5.
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 2
+
+Napisz program, który wypełni listę / tablice jednowymiarowa liczbami: od 10 do 100 z krokiem 5. 
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 2b (while)
+
+Napisz program, który wypełni tablice jednowymiarowa liczbami: od 10 do 100 z krokiem 5 z wykorzystaniem instrukcji while. 
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 3
+
+Napisz program, który zsumuje liczby w samodzielnie wypełnionej (przygotowanej w kodzie) liście / tablicy. 
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 4
+
+Napisz program, który wyszuka w samodzielnie przygotowanej liście / tablicy najwieksza liczbe. 
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 5
+
+Zmodyfikuj program z zad 5, który wyszuka w przygotowanej liście /  tablicy najwieksza liczbe oraz zapamieta pozycje wyszukanej liczby w tablicy.
+Uzyskany wynik wyswietl w konsoli.
+
+# zad 6
+
+Napisz program, który przepisze elementy z listy / tablicy zródłowej do listy / tablicy docelowej w odwrotnej kolejnosci. 
+Wyswietl zarówno tablice zródłowa jak i docelowa.
+
+# zad 7
+
+Napisz program, który zsumuje tylko nieparzyste liczby z samodzielnie przygotowanej tablicy. 
+Wyniki wyswietl w konsoli.
+
+# zad 8
+
+Napisz program, który wypełni listę list / tablicę dwuwymiarową kolejnymi liczbami. 
+Wyniki wyswietl w konsoli.
+
+# zad 9 
+
+Napisz program, który wyliczy silnie z podanej przez uzytkownika liczby. 
+Uzyskany wynik wyswietl w konsoli.
