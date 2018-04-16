@@ -1,2 +1,5 @@
-You are curious about the most popular and least popular colours of cars and decide to write a program to calculate the frequency of car colours.
-Your program should read in the colour of each car until a blank line is entered, and then print out (in any order) all the different colours of car with counts.
+You are curious about the most popular and least popular colours of cars 
+and decide to write a program to calculate the frequency of car colours.
+
+Your program should read in the colour of each car until a blank line is entered, 
+and then print out (in any order) all the different colours of car with counts.
