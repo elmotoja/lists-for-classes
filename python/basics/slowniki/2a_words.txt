@@ -1,0 +1,2 @@
+Here's something to stop you from getting repetitive when writing essays. Write a program that reads multiple lines of plain text from the user, then prints out each different word in the input with a count of how many times that word occurs. Don't worry about punctuation or case – the input will just be words, all in lower case. Your output should list the words in alphabetical order.
+sorted(dictionary) <- this sorts the dictiorary keys
